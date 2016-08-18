@@ -448,7 +448,7 @@
     "mm.login.usernamerequired": "Nombre_de_usuario obligatorio",
     "mm.login.webservicesnotenabled": "Los servicios web no están habilitados en su sitio. Por favor, contacte a su administrador del sitio Moodle si Usted piensa que se debería habilitar el acceso por dispositivos móviles.",
     "mm.settings.about": "Acerca de",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "Palermo VR {{version}}",
     "mm.settings.appready": "App lista",
     "mm.settings.cacheexpirationtime": "Tiempo de caducidad del caché (mili segundos)",
     "mm.settings.cordovadevicemodel": "Modelo Dispositivo Cordova",
