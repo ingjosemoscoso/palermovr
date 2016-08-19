@@ -4422,11 +4422,11 @@ angular.module('mm.core')
         };
                 self.getDocsUrl = function(release, page) {
             page = page || 'Mobile_app';
-            var docsurl = 'http://ingjosemoscoso.com';
+            var docsurl = 'https://docs.moodle.org/en/' + page
             if (typeof release != 'undefined') {
                 var version = release.substr(0, 3).replace(".", "");
                 if (parseInt(version) >= 24) {
-                    docsurl = docsurl.replace('http://ingjosemoscoso.com' + '/');
+                    docsurl = docsurl.replace('https://docs.moodle.org/', 'https://docs.moodle.org/' + version + '/');
                 }
             }
             return $mmLang.getCurrentLanguage().then(function(lang) {
