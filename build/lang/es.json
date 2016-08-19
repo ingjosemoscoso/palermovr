@@ -396,6 +396,7 @@
     "mm.login.invalidsite": "La URL del sitio es inválida.",
     "mm.login.login": "Ingresar",
     "mm.login.loginbutton": "Ingresar",
+    "mma.mod_url.pointingtourl": "Este enlace le dirigirá a la experiencia virtual",
     "mm.login.logininsiterequired": "Para autentificarse en el sitio se ha de abrir una ventana de navegador.",
     "mm.login.mobileservicesnotenabled": "El acceso móvil no está habilitado para este sitio, por favor, contacte con su administrador si piensa que debería estar habilitado.",
     "mm.login.password": "Contraseña",
